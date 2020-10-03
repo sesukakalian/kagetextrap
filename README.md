@@ -6,5 +6,5 @@ $ pkg install php
 $ git clone https://github.com/sesukakalian/kagetextrap
 $ cd kagetextrap
 
-Run
+# Run
 $ php linkget.php
